@@ -1,0 +1,9 @@
+1.creating the environments 
+-pip install requests
+-pip install bs4
+-pip install html5lib
+
+2.Requesting the html
+3.parsing the html (soup=tree)
+4.fetching the from the table(html tree traversal)
+5. lets go

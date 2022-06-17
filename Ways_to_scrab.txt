@@ -1,0 +1,2 @@
+1.using the api
+2.using the html with the help of different tools like bs4
